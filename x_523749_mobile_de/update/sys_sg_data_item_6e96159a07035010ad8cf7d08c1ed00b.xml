@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>Fetches the overdue requests from the table</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Overdue Requests Data Item</name>
+        <query_condition table="sc_req_item">active=true^due_date&lt;javascript:gs.beginningOfToday()^stateNOT IN3,4,7<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="due_date" goto="false" newquery="false" operator="&lt;" or="false" value="javascript:gs.beginningOfToday()"/>
+            <item display_value="3,4,7" endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="3,4,7"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-06 16:22:40</sys_created_on>
+        <sys_id>6e96159a07035010ad8cf7d08c1ed00b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Overdue Requests Data Item</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_data_item_6e96159a07035010ad8cf7d08c1ed00b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-06 16:22:40</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=6e96159a07035010ad8cf7d08c1ed00b"/>
+</record_update>

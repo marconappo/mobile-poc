@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Incident)">c915d15a07035010ad8cf7d08c1ed0c1</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Incident)</name>
+        <order>10</order>
+        <parent>0d15d15a07035010ad8cf7d08c1ed0bc</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-06 16:16:01</sys_created_on>
+        <sys_id>8515d15a07035010ad8cf7d08c1ed0c4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Delete (Incident)</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_button_instance_8515d15a07035010ad8cf7d08c1ed0c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 04:08:26</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=8515d15a07035010ad8cf7d08c1ed0c4"/>
+</record_update>

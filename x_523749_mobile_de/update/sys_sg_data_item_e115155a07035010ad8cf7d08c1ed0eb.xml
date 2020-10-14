@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Mobile Development Sample HR Task</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-06 16:16:03</sys_created_on>
+        <sys_id>e115155a07035010ad8cf7d08c1ed0eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Development Sample HR Task</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_data_item_e115155a07035010ad8cf7d08c1ed0eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-06 16:16:03</sys_updated_on>
+        <table>sn_hr_core_task</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=e115155a07035010ad8cf7d08c1ed0eb"/>
+</record_update>

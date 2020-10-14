@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Requested Item)">1515155a07035010ad8cf7d08c1ed073</button>
+        <item_parameter display_value="Requested Item priority">9115155a07035010ad8cf7d08c1ed068</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-06 16:16:02</sys_created_on>
+        <sys_id>dd15155a07035010ad8cf7d08c1ed093</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9115155a07035010ad8cf7d08c1ed068</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_dd15155a07035010ad8cf7d08c1ed093</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-06 16:16:02</sys_updated_on>
+        <ui_parameter display_value="Priority">1515155a07035010ad8cf7d08c1ed074</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

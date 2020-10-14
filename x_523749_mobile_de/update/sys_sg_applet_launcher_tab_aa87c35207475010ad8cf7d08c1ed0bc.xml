@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Critical Incidents">23618f1e07075010ad8cf7d08c1ed048</applet_launcher>
+        <icon display_value="Critical/High On Hold Icon">4ef40b9e07075010ad8cf7d08c1ed01b</icon>
+        <label>Critical Incidents</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 00:36:25</sys_created_on>
+        <sys_id>aa87c35207475010ad8cf7d08c1ed0bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Critical Incidents</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_aa87c35207475010ad8cf7d08c1ed0bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 00:36:25</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

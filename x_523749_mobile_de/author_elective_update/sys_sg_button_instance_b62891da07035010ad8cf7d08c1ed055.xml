@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Edit Button (Incident)">1115155a07035010ad8cf7d08c1ed00d</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Resolve</label>
+        <location>leading_swipe</location>
+        <name>Resolve</name>
+        <order>10</order>
+        <parent>99479d9a07035010ad8cf7d08c1ed060</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-06 16:29:31</sys_created_on>
+        <sys_id>b62891da07035010ad8cf7d08c1ed055</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resolve</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_button_instance_b62891da07035010ad8cf7d08c1ed055</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-06 16:29:31</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=b62891da07035010ad8cf7d08c1ed055"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</application>
+        <file_path/>
+        <instance_id>234164dbdbbec8909df22f17d49619c5</instance_id>
+        <instance_name>dev100327</instance_name>
+        <name>sys_sg_button_instance_b62891da07035010ad8cf7d08c1ed055</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Edit Button (Incident)">1115155a07035010ad8cf7d08c1ed00d</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Resolve</label><location>leading_swipe</location><name>Resolve</name><order>10</order><parent>99479d9a07035010ad8cf7d08c1ed060</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-06 16:29:31</sys_created_on><sys_id>b62891da07035010ad8cf7d08c1ed055</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Resolve</sys_name><sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package><sys_policy/><sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope><sys_update_name>sys_sg_button_instance_b62891da07035010ad8cf7d08c1ed055</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-06 16:29:31</sys_updated_on><table>sc_req_item</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=b62891da07035010ad8cf7d08c1ed055"/></record_update>]]></payload>
+        <payload_hash>-1722080568</payload_hash>
+        <record_name>Resolve</record_name>
+        <reverted_from/>
+        <source>978491d207035010ad8cf7d08c1ed0f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-06 16:29:31</sys_created_on>
+        <sys_id>fa2891da07035010ad8cf7d08c1ed057</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1746440525a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-06 16:29:31</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>362891da3e035010c37dda95f98d1c57</update_guid>
+        <update_guid_history>362891da3e035010c37dda95f98d1c57:-1722080568</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-06 16:31:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>1c53aea113ac4cbb8640283330a367c9</sys_id>
+        <sys_metadata>b62891da07035010ad8cf7d08c1ed055</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resolve</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_scope_delete display_value="">8524ccda96d64c8598a3be1aea8ee4a9</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_b62891da07035010ad8cf7d08c1ed055</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_b62891da07035010ad8cf7d08c1ed055">fa2891da07035010ad8cf7d08c1ed057</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-06 16:31:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Service Desk Support">9aa736d607075010ad8cf7d08c1ed0ac</applet_launcher>
+        <order>10</order>
+        <quick_action_button display_value="Create New Incident">6998bed607075010ad8cf7d08c1ed08b</quick_action_button>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-06 23:30:46</sys_created_on>
+        <sys_id>6198bed607075010ad8cf7d08c1ed08f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_6198bed607075010ad8cf7d08c1ed08f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-06 23:30:46</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+</record_update>

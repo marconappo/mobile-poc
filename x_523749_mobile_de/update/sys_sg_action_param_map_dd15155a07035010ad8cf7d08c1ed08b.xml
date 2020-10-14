@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Requested Item)">1515155a07035010ad8cf7d08c1ed073</button>
+        <item_parameter display_value="Requested Item short_description">9115155a07035010ad8cf7d08c1ed06a</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-06 16:16:02</sys_created_on>
+        <sys_id>dd15155a07035010ad8cf7d08c1ed08b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9115155a07035010ad8cf7d08c1ed06a</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_dd15155a07035010ad8cf7d08c1ed08b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-06 16:16:02</sys_updated_on>
+        <ui_parameter display_value="Short description">1915155a07035010ad8cf7d08c1ed076</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

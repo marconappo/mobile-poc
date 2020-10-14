@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description>Critical/High On Hold incidents</description>
+        <group_by>priority</group_by>
+        <instance_relative_url_qc/>
+        <name>Critical/High On Hold Data Item</name>
+        <query_condition table="incident">active=true^state=3^priorityIN1,2^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^ORDERBYpriority<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item display_value="On Hold" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="3"/>
+            <item display_value="1,2" endquery="false" field="priority" goto="false" newquery="false" operator="IN" or="false" value="1,2"/>
+            <item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="false" value="d6435e965f510100a9ad2572f2b47744"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="priority"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 00:01:13</sys_created_on>
+        <sys_id>a38f3e9a07075010ad8cf7d08c1ed027</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Critical/High On Hold Data Item</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_data_item_a38f3e9a07075010ad8cf7d08c1ed027</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 00:01:13</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=a38f3e9a07075010ad8cf7d08c1ed027"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</application>
+        <file_path/>
+        <instance_id>234164dbdbbec8909df22f17d49619c5</instance_id>
+        <instance_name>dev100327</instance_name>
+        <name>sys_sg_data_item_a38f3e9a07075010ad8cf7d08c1ed027</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description>Critical/High On Hold incidents</description><group_by>priority</group_by><instance_relative_url_qc/><name>Critical/High On Hold Data Item</name><query_condition table="incident">active=true^state=3^priorityIN1,2^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^ORDERBYpriority<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item display_value="On Hold" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="3"/><item display_value="1,2" endquery="false" field="priority" goto="false" newquery="false" operator="IN" or="false" value="1,2"/><item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="false" value="d6435e965f510100a9ad2572f2b47744"/><item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="priority"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-07 00:01:13</sys_created_on><sys_id>a38f3e9a07075010ad8cf7d08c1ed027</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Critical/High On Hold Data Item</sys_name><sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package><sys_policy/><sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope><sys_update_name>sys_sg_data_item_a38f3e9a07075010ad8cf7d08c1ed027</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-07 00:01:13</sys_updated_on><table>incident</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=a38f3e9a07075010ad8cf7d08c1ed027"/></record_update>]]></payload>
+        <payload_hash>846574677</payload_hash>
+        <record_name>Critical/High On Hold Data Item</record_name>
+        <reverted_from/>
+        <source>978491d207035010ad8cf7d08c1ed0f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 00:01:13</sys_created_on>
+        <sys_id>ff8f761e07075010ad8cf7d08c1ed0c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17465dde0ef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 00:01:13</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>3b8f761ed50750104edd8b28d0708bc4</update_guid>
+        <update_guid_history>3b8f761ed50750104edd8b28d0708bc4:846574677</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 00:25:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>0027953898d247fa8005b58d82719b59</sys_id>
+        <sys_metadata>a38f3e9a07075010ad8cf7d08c1ed027</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Critical/High On Hold Data Item</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_scope_delete display_value="">8524ccda96d64c8598a3be1aea8ee4a9</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_a38f3e9a07075010ad8cf7d08c1ed027</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_a38f3e9a07075010ad8cf7d08c1ed027">ff8f761e07075010ad8cf7d08c1ed0c4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 00:25:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

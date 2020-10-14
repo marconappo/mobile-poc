@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_section">
+    <sys_sg_item_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <data_item/>
+        <destination_screen display_value="Critical/High On Hold">f6e58b1207475010ad8cf7d08c1ed02f</destination_screen>
+        <display_title>true</display_title>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <max_items_display_count>15</max_items_display_count>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_item_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 00:33:50</sys_created_on>
+        <sys_id>a1070b5207475010ad8cf7d08c1ed067</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Critical/High On Hold</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_item_section_a1070b5207475010ad8cf7d08c1ed067</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 00:42:33</sys_updated_on>
+        <table/>
+        <title>Critical/High On Hold</title>
+        <visible_condition/>
+    </sys_sg_item_section>
+</record_update>

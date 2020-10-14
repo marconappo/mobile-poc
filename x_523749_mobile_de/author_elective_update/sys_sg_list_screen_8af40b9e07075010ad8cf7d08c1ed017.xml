@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description>Identify critical and high priority incidents that are on hold.</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">86f40b9e07075010ad8cf7d08c1ed013</icon>
+        <name>Critical/High On Hold</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 00:24:52</sys_created_on>
+        <sys_id>8af40b9e07075010ad8cf7d08c1ed017</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Critical/High On Hold</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_list_screen_8af40b9e07075010ad8cf7d08c1ed017</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 00:24:52</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=8af40b9e07075010ad8cf7d08c1ed017"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</application>
+        <file_path/>
+        <instance_id>234164dbdbbec8909df22f17d49619c5</instance_id>
+        <instance_name>dev100327</instance_name>
+        <name>sys_sg_list_screen_8af40b9e07075010ad8cf7d08c1ed017</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description>Identify critical and high priority incidents that are on hold.</description><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Address-Book">86f40b9e07075010ad8cf7d08c1ed013</icon><name>Critical/High On Hold</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-07 00:24:52</sys_created_on><sys_id>8af40b9e07075010ad8cf7d08c1ed017</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Critical/High On Hold</sys_name><sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package><sys_policy/><sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope><sys_update_name>sys_sg_list_screen_8af40b9e07075010ad8cf7d08c1ed017</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-07 00:24:52</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=8af40b9e07075010ad8cf7d08c1ed017"/></record_update>]]></payload>
+        <payload_hash>-1966399963</payload_hash>
+        <record_name>Critical/High On Hold</record_name>
+        <reverted_from/>
+        <source>978491d207035010ad8cf7d08c1ed0f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 00:24:52</sys_created_on>
+        <sys_id>0af40b9e07075010ad8cf7d08c1ed019</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17465f387c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 00:24:52</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>42f40b9e35075010ac61a2a36aeac919</update_guid>
+        <update_guid_history>42f40b9e35075010ac61a2a36aeac919:-1966399963</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 00:27:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>01c35531d2e24478800ddb26131a3391</sys_id>
+        <sys_metadata>8af40b9e07075010ad8cf7d08c1ed017</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Critical/High On Hold</sys_name>
+        <sys_package display_value="Mobile Development Sample" source="x_523749_mobile_de">578491d207035010ad8cf7d08c1ed0f4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Development Sample">578491d207035010ad8cf7d08c1ed0f4</sys_scope>
+        <sys_scope_delete display_value="">8524ccda96d64c8598a3be1aea8ee4a9</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_8af40b9e07075010ad8cf7d08c1ed017</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_8af40b9e07075010ad8cf7d08c1ed017">0af40b9e07075010ad8cf7d08c1ed019</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 00:27:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
